@@ -23,5 +23,5 @@ The sorting algorithms that have been implemented were:
 
 ● Bucket Sort
 
-Before each sort, an array of size 10 - 100,000 is randomly generated and the program keeps track of the clock time and number of operations each algorithm takes until the array is successfuly sorted. 
+Before each sort, an array of size 10 - 100,000 elements is randomly generated and the program keeps track of the clock time and number of operations each algorithm takes until the array is successfuly sorted. 
 With this data, you can analyze which algorithms are suited best for various size arrays and if it matches their average time compexity.

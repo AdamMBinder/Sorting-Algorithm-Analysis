@@ -4,6 +4,7 @@ Implemented 10 classical sorting algorithms that sort randomly generated lengths
 The purpose of this project was to give myself practical experience with data structures, algorithms, and design techniques, and also to compare their empirical performance with the ones predicted by the analysis presented online.
 
 The sorting algorithms that have been implemented were:
+
 ● Bubble Sort
 
 ● Selection Sort

@@ -5,13 +5,21 @@ The purpose of this project was to give myself practical experience with data st
 
 The sorting algorithms that have been implemented were:
 ● Bubble Sort
+
 ● Selection Sort
+
 ● Insertion Sort
+
 ● Merge Sort
+
 ● Quick Sort
+
 ● Heap Sort
+
 ● Counting Sort
+
 ● Radix Sort
+
 ● Bucket Sort
 
 Before each sort, an array of size 10 - 100,000 is randomly generated and the program keeps track of the clock time and number of operations each algorithm takes until the array is successfuly sorted. 
